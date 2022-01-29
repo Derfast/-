@@ -1,4 +1,9 @@
 
+    body{
+background-color: #227CCA;
+}
+
+
     input{
 border-radius: 5px;
 box-shadow: 0 0 0 2px #5A8FC1;
@@ -15,6 +20,11 @@ background-color: #FFFFFF;
 border: 2px solid #FFFFFF;
 width: 450px;
 border-radius: 1 px;
+}
+
+#button{
+display:flex
+justify-content: space-between;
 
 }
 
@@ -31,8 +41,5 @@ text-align: center;
 
 }
 
-    baby{
-display:flex
-justify-content: space-between;
-}
+
 
