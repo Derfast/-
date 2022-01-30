@@ -19,14 +19,17 @@ margin: 20px auto;
 background-color: #FFFFFF;
 border: 2px solid #FFFFFF;
 width: 450px;
-border-radius: 1 px;
-}
-
-#button{
-display:flex
-justify-content: space-between;
 
 }
+
+    .Baby{
+display: flex;
+justify-content: space-around;
+padding: 0px;
+
+}
+
+
 
 
 .namber2{
